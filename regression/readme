@@ -1,1 +1,3 @@
-R code for regression with random covariates
+This example considers a regression model with random covariates using data from the National Health and Nutrition Examination Survey (NHANES) 2021–2023, 
+a nationally representative survey administered by the U.S. Centers for Disease Control and Prevention (CDC).
+The datasets were obtained from the publicly accessible NHANES website (https://wwwn.cdc.gov/nchs/nhanes/).
